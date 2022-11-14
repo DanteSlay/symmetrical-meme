@@ -172,7 +172,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
     </tr>
     <tr>
         <td>
-            <code>git commit</code>
+            <code>git commit -m "text"</code>
         </td>
         <td>
             <code>Click derecho > Git > Commit File</code>
