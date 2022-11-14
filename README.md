@@ -93,7 +93,7 @@ Confirmamos el proyecto y los subimos a __GitHub__:
 
     ![git commit -m "text"](img/gitCommit.png)
 
-5. ___Conectamos___ el repositorio con __GitHub__ `git push -u origin branch` que en mi caso es ___develop___.
+5. ___Subimos___ el repositorio a __GitHub__ con `git push -u origin branch` que en mi caso es ___develop___.
 
     ![git push -u origin branch](img/gitPush.png)
 
