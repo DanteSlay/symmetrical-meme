@@ -146,7 +146,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Local History > Show History </code>
-            <br />
+            <br /><br />
             <img src="img/gitStatusIntelliJ.png" alt="git status IntelliJ" width="500"/>
         </td>
     </tr>
@@ -161,7 +161,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Ctrl + Alt + A</code>
-            <br />
+            <br /><br />
             <img src="img/gitAdd.png" alt="Alt+A" width="500"/>
         </td>
     </tr>
@@ -176,7 +176,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Git > Commit File</code>
-            <br />
+            <br /><br />
             <img src="img/gitCommitIntelliJ.png" alt="git commit IntelliJ" width="500"/>
         </td>
     </tr>
@@ -191,7 +191,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Alt + 9</code>
-            <br />
+            <br /><br />
             <img src="img/gitLogIntelliJ.png" alt="Alt+9" width="500"/>
         </td>
     </tr>
@@ -206,7 +206,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Git > Manage Remotes...</code>
-            <br />
+            <br /><br />
             <img src="img/gitRemoteIntelliJ.png" alt="git remote IntelliJ" width="500"/>
         </td>
     </tr>
@@ -221,7 +221,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Git > Push...</code>
-            <br />
+            <br /><br />
             <img src="img/gitPushIntelliJ.png" alt="git push IntelliJ" width="500"/>
         </td>
     </tr>
@@ -236,7 +236,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Git > Clone... Introducimos la URL del repositorio</code>
-            <br />
+            <br /><br />
             <img src="img/gitCloneIntelliJ.png" alt="git push IntelliJ" width="500"/>
         </td>
     </tr>
