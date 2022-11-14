@@ -4,7 +4,7 @@ ___
 ### TRABAJAR CON FICHEROS MARKDOWN
 Vamos a crear un __repositorio público__, con una __descripción__, un fichero __README.md__, un fichero __.gitignore__(modelo por defecto para ficheros *Java*) y __licencia MIT__ dentro de nuestro perfil de __GitHub__.
 
-<img src="img/crearRepositorio.png" alt="Crear un Repositorio GitHub" width="400"/>
+<img src="img/crearRepositorio.png" alt="Crear un Repositorio GitHub" width="500"/>
 
 
 Para ___clonarlo y tener una copia del repositorio en local___, seguimos estos pasos:
@@ -45,7 +45,7 @@ En GitHub se bifurca desde la pagina de un repositorio, pinchando en el botón _
 
 ![Botón Fork](img/botonFork.png)
 
-<img src="img/crearFork.png" alt="Crear Bifurcación" width="400"/>
+<img src="img/crearFork.png" alt="Crear Bifurcación" width="500"/>
 
 
 Ya nos dicen en este punto que una ___bifurcación no afecta al repositorio original___:
