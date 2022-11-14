@@ -146,7 +146,8 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Local History > Show History </code>
-            <img src="img/gitStatusIntelliJ.png" alt="Alt+9" width="500"/>
+            <br />
+            <img src="img/gitStatusIntelliJ.png" alt="git status IntelliJ" width="500"/>
         </td>
     </tr>
     <tr>
@@ -160,7 +161,8 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Ctrl + Alt + A</code>
-            <img src="img/gitAdd.png" alt="Alt+9" width="500"/>
+            <br />
+            <img src="img/gitAdd.png" alt="Alt+A" width="500"/>
         </td>
     </tr>
     <tr>
@@ -174,7 +176,8 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Git > Commit File</code>
-            <img src="img/gitCommitIntelliJ.png" alt="Alt+9" width="500"/>
+            <br />
+            <img src="img/gitCommitIntelliJ.png" alt="git commit IntelliJ" width="500"/>
         </td>
     </tr>
     <tr>
@@ -188,6 +191,7 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Alt + 9</code>
+            <br />
             <img src="img/gitLogIntelliJ.png" alt="Alt+9" width="500"/>
         </td>
     </tr>
@@ -202,7 +206,38 @@ Para cada uno de los __comandos__ que hemos visto en _local_, hay una correspond
         </td>
         <td>
             <code>Click derecho > Git > Manage Remotes...</code>
-            <img src="img/gitRemoteIntelliJ.png" alt="Alt+9" width="500"/>
+            <br />
+            <img src="img/gitRemoteIntelliJ.png" alt="git remote IntelliJ" width="500"/>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            Subir cambios realizados y confirmados al repositorio remoto
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <code>git push -u BRANCH</code>
+        </td>
+        <td>
+            <code>Click derecho > Git > Push...</code>
+            <br />
+            <img src="img/gitPushIntelliJ.png" alt="git push IntelliJ" width="500"/>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            Clonar un repositorio remoto a mi equipo local
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <code>git clone URL</code>
+        </td>
+        <td>
+            <code>Click derecho > Git > Clone... Introducimos la URL del repositorio</code>
+            <br />
+            <img src="img/gitCloneIntelliJ.png" alt="git push IntelliJ" width="500"/>
         </td>
     </tr>
 </table>
