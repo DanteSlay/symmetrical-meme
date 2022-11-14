@@ -18,7 +18,7 @@ Para ___clonarlo y tener una copia del repositorio en local___, seguimos estos p
     - Para clonar el repositorio mediante una clave SSH, incluido un certificado emitido por la entidad de certificación SSH de la organización, haga clic en Usar SSH y luego en 📋.
     - Para clonar un repositorio mediante GitHub CLI, haz clic en GitHub CLI y, después, haz clic en 📋.
 
-    <img src="img/clonarRepositorio02.png" alt="Copiar https:github" width="250"/>
+        <img src="img/clonarRepositorio02.png" alt="Copiar https:github" width="250"/>
     
 
 4. Abra ___Git Bash___ desde la carpeta 📁 donde quieras clonar el directorio.
@@ -71,7 +71,7 @@ Ahora para __probar__ que sucede si trabajamos sobre este proyecto vamos a __eli
 - ___Eliminamos___ el archivo __.gitignore__ con `git rm .gitignore`.
 - _Creamos_ la carpeta __HolaMundo__ con `mkdir HolaMundo` entramos en ella con `cd HolaMundo` y _creamos_ un archivo ___Java___ con `touch ejemplo.java`.
 
-![Archivos editados en local](img/bifEditada.png)
+    ![Archivos editados en local](img/bifEditada.png)
 
 Confirmamos el proyecto y los subimos a __GitHub__:
 1. Abrimos ___Git Bash___ y comprobamos el estado del _repositorio_ con:
